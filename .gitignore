@@ -2,3 +2,6 @@
 *.md5
 *.nc
 *.pt
+.ipynb_checkpoints
+*.mat
+*.nc4
