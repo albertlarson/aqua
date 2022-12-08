@@ -1,0 +1,13 @@
+Loading miniconda version 4.11.0
+Python 3.8.10
+/usr/bin/python3
+# conda environments:
+#
+base                     /modules/apps/miniconda/4.8.3
+jupyterhub-stable        /modules/apps/miniconda/4.8.3/envs/jupyterhub-stable
+f2f                      /work/albertl_uri_edu/.conda/envs/f2f
+f2f_2                 *  /work/albertl_uri_edu/.conda/envs/f2f_2
+sm                       /work/albertl_uri_edu/.conda/envs/sm
+
+Python 3.10.4
+/work/albertl_uri_edu/.conda/envs/f2f_2/bin/python3
