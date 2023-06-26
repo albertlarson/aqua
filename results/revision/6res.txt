@@ -1,0 +1,14 @@
+dif between variable and argo
+Argo		(0.0, tensor(138852))
+AMSR-E		(91.35836, tensor(117204))
+MODIS		(194.95735, tensor(137400))
+Pred		(165.35034, tensor(136872))
+Optim		(165.35034, tensor(136872))
+
+
+dif between variable and modis
+Argo		(194.95735, tensor(137400))
+AMSR-E		(131.08978, tensor(117055))
+MODIS		(0.0, tensor(138384))
+Pred		(260.1828, tensor(137140))
+Optim		(260.1828, tensor(137140))

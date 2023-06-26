@@ -4,8 +4,5 @@
 .ipynb_checkpoints
 *.mat
 *.nc4
-*.nc
 *.pt
-data/amsre/dailies
-data/argo/data
-data/argo/fields
+data/

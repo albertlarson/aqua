@@ -1,0 +1,11 @@
+Epoch 1 Valid Mean MSE: 427.781
+Epoch 10 Valid Mean MSE: 0.585
+Epoch 20 Valid Mean MSE: 0.486
+Epoch 30 Valid Mean MSE: 0.607
+Epoch 40 Valid Mean MSE: 0.658
+Epoch 50 Valid Mean MSE: 0.667
+Epoch 60 Valid Mean MSE: 0.648
+Epoch 70 Valid Mean MSE: 0.595
+Epoch 80 Valid Mean MSE: 0.499
+Epoch 90 Valid Mean MSE: 0.38
+Epoch 100 Valid Mean MSE: 0.329
